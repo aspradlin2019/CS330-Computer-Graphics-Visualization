@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330 Content 1\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330 Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\textures\ashwood.jpg</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330 Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\textures\blueplastic.jpg</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330 Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\textures\greenplastic.jpg</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330 Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\textures\letterA.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330 Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\textures\letterB.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330 Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\textures\letterC.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330 Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\textures\lightblueplastic.jpg</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330 Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\textures\magentaplastic.jpg</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330 Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\textures\metal.jpg</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330 Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\textures\oakwood.jpg</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330 Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\textures\orangeplastic.jpg</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330 Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\textures\redplastic.jpg</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330 Content\CS330Content\Projects\7-1_FinalProjectMilestones\Source\textures\stainless.jpg</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

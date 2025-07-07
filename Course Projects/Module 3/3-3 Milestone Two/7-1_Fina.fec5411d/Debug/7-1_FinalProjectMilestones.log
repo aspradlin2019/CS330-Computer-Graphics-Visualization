@@ -1,0 +1,8 @@
+﻿  MainCode.cpp
+  SceneManager.cpp
+C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330ContentOriginal\CS330Content\Projects\3-3 Milestone Two\Source\SceneManager.cpp(223,16): warning C4018: '<': signed/unsigned mismatch
+  ViewManager.cpp
+C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330ContentOriginal\CS330Content\Projects\3-3 Milestone Two\Source\ViewManager.cpp(156,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  LINK : C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330ContentOriginal\CS330Content\Projects\3-3 Milestone Two\Debug\7-1_FinalProjectMilestones.exe not found or not built by the last incremental link; performing full link
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330ContentOriginal\CS330Content\Projects\3-3 Milestone Two\Debug\7-1_FinalProjectMilestones.exe

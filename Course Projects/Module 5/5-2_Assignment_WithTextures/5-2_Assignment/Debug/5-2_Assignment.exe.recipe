@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330ContentOriginal\CS330Content\Projects\5-2_Assignment\Debug\5-2_Assignment.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330ContentOriginal\CS330Content\Utilities\textures\basketballtexture.jpg</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330ContentOriginal\CS330Content\Utilities\textures\brickwallbase.jpg</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330ContentOriginal\CS330Content\Utilities\textures\greengrassbase.jpg</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330ContentOriginal\CS330Content\Utilities\textures\icecreamconetexture.jpg</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\alysh\OneDrive - SNHU\Courses\CS330 Computer Graphics and Visualization\CS330ContentOriginal\CS330Content\Utilities\textures\woodbarkbase.jpg</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

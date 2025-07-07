@@ -1,1 +1,1 @@
-# aspradlin2019-CS330-Computer-Graphics-Visualization
+# CS330-Computer-Graphics-Visualization
